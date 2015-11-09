@@ -1,0 +1,26 @@
+<!--
+To change this template use Tools | Templates.
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+    <title></title>
+</head>
+<body>
+What is HTML and why is it important ?
+HTML is a system that is used for tagging text files to achieve font,color,graphic and some links on web pages. It stands for Hypertext Markup Language. HTML is wtritten
+as "<html>" for tagging.
+
+What is CSS and why is it important ?
+CSS is used by web pages to help keep information in the proper display format. CSS files can help define font, size, color, spacing, border and location of HTML 
+information on a web page, and can also be used to create a continuous look throughout multiple pages of a website. It stands for Cascading Style Sheet.
+
+How do tags work ?
+
+
+What are attributes and how do they work ?
+
+Description for atleast 4 differents tags 
+
+</body>
+</html>
